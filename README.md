@@ -3,3 +3,8 @@
 
 ### RxJava
 * [Observable이란](https://onlyfor-me-blog.tistory.com/326)
+* [Scheduler란](https://yunzai.dev/posts/RxJava_스케쥴러란_스케쥴러의_종류(1)/)
+* [Scheduler 이해하기](https://tiii.tistory.com/18)
+
+### Design
+* [ColorStateList](https://www.crocus.co.kr/1729)
