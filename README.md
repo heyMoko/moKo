@@ -1,5 +1,5 @@
 # moKo
-공부할 때 보기 좋았던 블로그 및 문서 정리
+공부 및 문제 해결에 도움을 받은 블로그 및 문서 정리
 
 ### RxJava
 * [Observable이란](https://onlyfor-me-blog.tistory.com/326)
@@ -20,3 +20,9 @@
 
 ### FCM
 * [푸쉬 알림 클릭 후에도 푸쉬가 삭제되지 않는 현상](https://stackoverflow.com/questions/2632272/android-notification-doesnt-disappear-after-clicking-the-notification)
+
+### Localization
+* [실행중 시스템 언어 변경하기](https://it-highjune.tistory.com/2)
+
+### DeepLink
+* [Navigation Components in Android Jetpack — SafeArgs & DeepLinking](https://medium.com/@maryangmin/navigation-components-in-android-jetpack-2-safeargs-deeplinking-473ef1d424d1)
