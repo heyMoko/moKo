@@ -31,4 +31,4 @@
 * [기정님 컴포즈 스터디](https://soda1127.notion.site/Android-Compose-Study-e857bd18434147cbac14eaa2ba58f470)
 
 ### locale
-* [실행 중 ](https://it-highjune.tistory.com/2)
+* [실행 중 시스템 언어 변경하기](https://it-highjune.tistory.com/2)
