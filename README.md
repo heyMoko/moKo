@@ -32,3 +32,6 @@
 
 ### locale
 * [실행 중 시스템 언어 변경하기](https://it-highjune.tistory.com/2)
+
+### SDK
+* [targetSdk & compileSdk](https://aroundck.tistory.com/4665)
