@@ -37,4 +37,4 @@
 * [targetSdk & compileSdk](https://aroundck.tistory.com/4665)
 
 ### LaunchMode
-(Activity LifeCycle LaunchMode에 대해 이해하기)[https://onepinetwopine.tistory.com/325]
+* [Activity LifeCycle LaunchMode에 대해 이해하기](https://onepinetwopine.tistory.com/325)
