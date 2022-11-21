@@ -38,3 +38,6 @@
 
 ### LaunchMode
 * [Activity LifeCycle LaunchMode에 대해 이해하기](https://onepinetwopine.tistory.com/325)
+
+### Android 13 Splash
+* [Splash 대응하기](https://sungbin.land/안드로이드12-스플래시-대응하기-1729f69dc33f)
