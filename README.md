@@ -20,6 +20,7 @@
 
 ### FCM
 * [푸쉬 알림 클릭 후에도 푸쉬가 삭제되지 않는 현상](https://stackoverflow.com/questions/2632272/android-notification-doesnt-disappear-after-clicking-the-notification)
+* [Google Cloud Messaging (GCM): Messaging Concepts and Options](https://shnoble.tistory.com/88)
 
 ### Localization
 * [실행중 시스템 언어 변경하기](https://it-highjune.tistory.com/2)
