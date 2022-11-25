@@ -43,3 +43,10 @@
 ### Android 12 Splash
 * [Splash 대응하기](https://sungbin.land/안드로이드12-스플래시-대응하기-1729f69dc33f)
 * [Android12 Splash Screen (안드로이드12 스플래시)](https://salmonpack.tistory.com/7)
+
+### Git
+* [깃 협업시 branch사용법 총정리](https://eunhee-programming.tistory.com/256)
+* [Learning Git Branch](https://learngitbranching.js.org/?locale=ko)
+* [같은 저장소 함께 쓰기](https://fomaios.tistory.com/entry/Git-Github-%EA%B0%99%EC%9D%80-%EC%A0%80%EC%9E%A5%EC%86%8C-%ED%95%A8%EA%BB%98-%EC%93%B0%EA%B8%B0feat%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0)
+* [PR 잘 쓰는 방법](https://intrepidgeeks.com/tutorial/git-the-best-way-to-use-commit-messagepr)
+
